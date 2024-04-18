@@ -30,21 +30,20 @@ h3 {
 </head>    
 <body>
     <div id="content">
-        <h1>Sarah Gothard</h1>
-        <h2>Freshman in Greenville, South Carolina</h2>
+        <h1>Joshua Kumar</h1>
+        <h2>Sophomore in Greenville, South Carolina</h2>
         
-         <p>I am a freshman at Bob Jones University studying computer science with a minor in 
-            mathematics. I work for the Computer Science department as a lab monitor.</p>
+         <p>I am a freshman at Bob Jones University studying Business. I usually help out with my church and currently looking for a job.</p>
          <p>
-            I attend Cornerstone Baptist Church in Greer SC. My favorite website is  
+            I attend The Pillar and Ground of the Truth Baptist Church in India. My favorite website is  
             <a href="https://mobilehymns.org/">here</a>, and you can email me  
-            <a href="mailto:sgothard@bju.edu">here</a>.
+            <a href="Jkuma139@students.bju.edu">here</a>.
          </p> 
          <p>
-            I enjoy listening to podcasts and having deep conversations.
+            I enjoy playing soccer and staying at home.
          </p>
         <h3>EDUCATION</h3>
-        Computer Science<br />
+        Business<br />
         Bob Jones University
     </div>
 </body>
